@@ -63,6 +63,7 @@
     width: calc(100% / 3);
     background-clip: border-box;
     padding: 10px;
+    align-items: center
 }
 
 .userSocial li:nth-child(2) {
