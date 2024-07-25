@@ -1,0 +1,10 @@
+.Type {
+    text-transform: capitalize;
+    padding-left: 50px;
+}
+
+
+.Amount,
+.Currency {
+    text-align: center;
+}

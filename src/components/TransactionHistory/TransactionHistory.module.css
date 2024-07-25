@@ -1,0 +1,26 @@
+table,
+thead,
+th,
+td {
+    border: 1px solid #000;
+}
+
+.TransactionHistory {
+    margin: 30px;
+    width: 600px;
+    border-collapse: collapse;
+    table-layout: fixed
+}
+
+.TransactionHistoryHeader {
+    background-color: rgb(34, 34, 34);
+    color: #fff;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #a5a5a5;
+}
